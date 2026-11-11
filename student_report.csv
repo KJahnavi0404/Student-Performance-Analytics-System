@@ -1,0 +1,31 @@
+student_id,student_name,dept_name,semester,Data Structures,Database Systems,English,Mathematics,Physics,Python Programming,total,percentage,grade,status,rank
+17,Harsha Vardhan,Computer Science,7,76.0,77.0,99.0,83.0,66.0,88.0,489.0,81.5,A,PASS,1
+2,Ananya Reddy,Electronics,1,80.0,71.0,88.0,88.0,70.0,91.0,488.0,81.33,A,PASS,2
+5,Karthik Rao,Computer Science,4,82.0,79.0,93.0,74.0,74.0,86.0,488.0,81.33,A,PASS,2
+29,Imran Khan,Computer Science,2,71.0,79.0,86.0,86.0,86.0,79.0,487.0,81.17,A,PASS,4
+27,Deepak Yadav,Mechanical,4,92.0,71.0,76.0,92.0,75.0,78.0,484.0,80.67,A,PASS,5
+23,Suresh Babu,Mechanical,7,66.0,79.0,86.0,80.0,80.0,86.0,477.0,79.5,B+,PASS,6
+19,Manoj Kumar,Mechanical,8,78.0,80.0,76.0,77.0,88.0,71.0,470.0,78.33,B+,PASS,7
+22,Kavya Menon,Electronics,3,64.0,75.0,89.0,82.0,72.0,76.0,458.0,76.33,B+,PASS,8
+30,Sowmya Pillai,Electronics,2,55.0,88.0,84.0,69.0,80.0,74.0,450.0,75.0,B+,PASS,9
+24,Tanvi Shah,Civil,6,75.0,76.0,70.0,71.0,81.0,67.0,440.0,73.33,B+,PASS,10
+4,Priya Nair,Civil,4,71.0,67.0,62.0,71.0,86.0,78.0,435.0,72.5,B+,PASS,11
+25,Varun Chowdary,Computer Science,5,75.0,83.0,88.0,86.0,74.0,12.0,418.0,69.67,B,FAIL,12
+26,Ritu Agarwal,Electronics,3,82.0,59.0,74.0,86.0,79.0,30.0,410.0,68.33,B,FAIL,13
+3,Rohan Verma,Mechanical,5,67.0,55.0,23.0,85.0,92.0,87.0,409.0,68.17,B,FAIL,14
+20,Swathi Reddy,Civil,5,62.0,69.0,77.0,64.0,68.0,67.0,407.0,67.83,B,PASS,15
+8,Divya Patel,Civil,2,54.0,78.0,64.0,64.0,80.0,65.0,405.0,67.5,B,PASS,16
+16,Neha Das,Civil,4,86.0,74.0,38.0,74.0,59.0,72.0,403.0,67.17,B,FAIL,17
+14,Meera Joshi,Electronics,4,76.0,70.0,49.0,66.0,77.0,61.0,399.0,66.5,B,PASS,18
+15,Aditya Kulkarni,Mechanical,1,57.0,64.0,59.0,65.0,90.0,53.0,388.0,64.67,B,PASS,19
+21,Nikhil Jain,Computer Science,1,58.0,62.0,66.0,32.0,75.0,76.0,369.0,61.5,B,FAIL,20
+13,Sai Teja,Computer Science,4,71.0,52.0,69.0,64.0,73.0,39.0,368.0,61.33,B,FAIL,21
+6,Sneha Iyer,Electronics,3,68.0,61.0,46.0,69.0,58.0,63.0,365.0,60.83,B,PASS,22
+9,Arjun Mehta,Computer Science,7,64.0,80.0,57.0,36.0,63.0,61.0,361.0,60.17,B,FAIL,23
+1,Aarav Sharma,Computer Science,2,64.0,67.0,76.0,57.0,29.0,67.0,360.0,60.0,B,FAIL,24
+11,Rahul Gupta,Mechanical,1,57.0,53.0,72.0,40.0,59.0,62.0,343.0,57.17,C,PASS,25
+18,Isha Banerjee,Electronics,4,59.0,61.0,55.0,49.0,54.0,63.0,341.0,56.83,C,PASS,26
+7,Vikram Singh,Mechanical,2,24.0,59.0,46.0,75.0,64.0,67.0,335.0,55.83,C,FAIL,27
+12,Pooja Kumari,Civil,2,71.0,56.0,57.0,49.0,62.0,35.0,330.0,55.0,C,FAIL,28
+28,Bhavana Rao,Civil,6,64.0,53.0,56.0,42.0,57.0,45.0,317.0,52.83,C,PASS,29
+10,Lakshmi Devi,Electronics,1,39.0,43.0,56.0,52.0,37.0,51.0,278.0,46.33,D,FAIL,30
